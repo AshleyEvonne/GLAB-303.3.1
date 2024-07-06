@@ -3,6 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 //LengthDemo
+        // The length() method returns the length of a specified string.
+
         String str1 = "Java";
         String str2 = "";
 
