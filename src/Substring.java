@@ -8,7 +8,7 @@ public class Substring {
         //extract substring from index 0 to 3
         System.out.println(str1.substring(0,4));
 
-        // indexOf Method
+        //------indexOf Method-------
         int result;
 
         //getting index of character 's'
