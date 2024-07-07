@@ -3,6 +3,11 @@ public class replace {
         //The replace() method searches a string for a specified character,
         //and returns a new string where the specified character(s) are replaced.
 
+        //The syntax of the replace() method is either:
+        //stringobj.replace(char oldChar, char newChar)
+        //or
+        //stringobj.replace(CharSequence oldText, CharSequence newText)
+
         String str1 = "abc cba";
 
         // all occurrences of 'a' is replaced with 'z'
