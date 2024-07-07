@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class Split {
     public static void main(String[] args) {
+        // The split() method splits a string into an array of substrings using a regular expression as the separator.
         String vowels = "a::b::c::d:e";
 
         //splitting the string at "::"
